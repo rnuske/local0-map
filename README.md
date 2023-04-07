@@ -1,4 +1,4 @@
-# Locale Zero Karte
+# Locale Zero Karte  <img src="geodaten/schmuckkarte.png" align="right" height="278" />
 
 ## Vorbereitungen
 
